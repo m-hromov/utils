@@ -1,0 +1,7 @@
+-classpath 'C:\\Users\\hromov\\Documents\\IdeaProjects\\utils-1.3.5\\build\\classes\\java\\main;C:\\Users\\hromov\\Documents\\IdeaProjects\\utils-1.3.5\\build\\resources\\main;C:\\Users\\hromov\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.commons\\commons-lang3\\3.0\\8873bd0bb5cb9ee37f1b04578eb7e26fcdd44cb0\\commons-lang3-3.0.jar'
+-d 'C:\\Users\\hromov\\Documents\\IdeaProjects\\utils-1.3.5\\build\\docs\\javadoc'
+-doctitle 'utils 1.3.5 API'
+-notimestamp 
+-quiet 
+-windowtitle 'utils 1.3.5 API'
+'C:\\Users\\hromov\\Documents\\IdeaProjects\\utils-1.3.5\\src\\main\\java\\StringUtils.java'
